@@ -1,14 +1,22 @@
 .container {
     text-align: center;
-    border: black solid;
+    border: rgb(6, 8, 31) solid;
     border-radius: 50%;
+    width: 25vw;
+    height: 42vh;
+    background: url(https://th.bing.com/th/id/R0f82c645de211b082964f72ab9e5d894?rik=tw1RvE6ltWMBLg&riu=http%3a%2f%2fmedia.istockphoto.com%2fvectors%2fblack-and-gray-triangle-pattern-vector-id660462224%3fk%3d6%26m%3d660462224%26s%3d612x612%26w%3d0%26h%3dc1OZDUhQVf18jKB0xSk7ulmsHuTaAuQ8XRrOlpCu8pg%3d&ehk=obvYCeIsCbQtu5dc%2bP%2ft%2bx3qiekALbr%2bm%2bUjbm3SReM%3d&risl=&pid=ImgRaw);
+    margin-left: 35%;
 }
 
 button{
-    background: cyan;
+    background: rgba(143, 143, 145, 0.212);
     color: white;
-    font-size: 32px;
+    font-size: 1.5rem;
     padding: 8px 20px;
     cursor: pointer;
     border: 0;
+}
+
+h2{
+    color: rgb(53, 51, 51);
 }
