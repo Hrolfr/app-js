@@ -1,6 +1,7 @@
 .container {
     text-align: center;
-    border-radius: 5px;
+    border: black solid;
+    border-radius: 50%;
 }
 
 button{
