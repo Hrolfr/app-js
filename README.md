@@ -10,6 +10,8 @@ Projeto do canal Danki Code no Youtube.É um modelo de temporizador feito com Ja
 
 ![tela](C:\Users\Sales\programming\app-js\tela.png)
 
+Imagem do projeto: https://imgur.com/pI0sXgo
+
 (EN) Reference / (PT-BR) Referência:
 
 Link: https://youtu.be/RYb6a87dM6A.
