@@ -11,3 +11,7 @@ var minutoAtual;
 var segundoAtual;
 
 var interval;
+
+for(var i = 0; i <= 60; i++){
+    minutos.innerHTML += '<option value="' +i+ '">' +i+ ' </option>';
+}
