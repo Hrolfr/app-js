@@ -36,13 +36,13 @@ for(var i = 1; i <= 60; i++){
           minutoAtual--;
           segundoAtual = 59;
        }else{
-           alert("acabou");
+           alert("Acabou!");
            document.getElementById("sound").play();
            clearInterval(interval);
        }
    }
-
-   },1000); //vai ser chamada de 1 em 1min
+   display.childNodes[1].innerHTML = minutoAtual + ":"+segundoAtual;
+   },1000); //vai ser chamada de 1 em 1s
 
  })
 
